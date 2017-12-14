@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="425" height="676" viewBox="0 0 425 676">
+  <defs>
+    <clipPath id="eae34f22-97ef-4ced-80b8-5a3a26a51728">
+      <rect width="423.79" height="151" style="fill: none"/>
+    </clipPath>
+    <clipPath id="2f863eb2-84c6-4d24-ae59-9770769e4f0a">
+      <rect x="-472" width="425" height="351" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>full-bleed-banner-example--mobile-static</title>
+  <g id="4a4e8b60-1acf-4294-990c-9db67fd01f4d" data-name="mobile copy">
+    <g id="fe7f03d0-b153-4cb4-a35c-cb93b350b070" data-name="paragraph">
+      <rect x="39" y="613.67" width="341" height="14" style="fill: #ccc"/>
+      <rect x="39" y="586.33" width="341" height="14" style="fill: #ccc"/>
+      <rect x="39" y="559" width="341" height="14" style="fill: #ccc"/>
+      <rect x="39" y="641" width="341" height="14" style="fill: #ccc"/>
+      <rect x="40" y="326" width="341" height="14" style="fill: #ccc"/>
+      <rect x="40" y="353.33" width="341" height="14" style="fill: #ccc"/>
+      <rect x="40" y="380.67" width="341" height="14" style="fill: #ccc"/>
+      <rect x="40" y="408" width="341" height="14" style="fill: #ccc"/>
+      <rect x="40" y="435.33" width="341" height="14" style="fill: #ccc"/>
+      <rect x="40" y="462.67" width="341" height="14" style="fill: #ccc"/>
+      <rect x="40" y="490" width="250" height="14" style="fill: #ccc"/>
+    </g>
+    <line id="b57460d1-487d-4ca1-9c0a-6b3381037b44" data-name="separator" x1="41" y1="301" x2="382" y2="301" style="stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <rect id="4ca27364-4b1b-4b16-ba7b-d87fe96e1b31" data-name="title" x="41" y="197" width="341" height="77" style="fill: #ccc"/>
+    <g id="40713ea1-5961-4b7d-85e4-2c2f4674c129" data-name="image">
+      <g style="clip-path: url(#eae34f22-97ef-4ced-80b8-5a3a26a51728)">
+        <rect y="0.8" width="423.79" height="151" style="fill: #3e7aff"/>
+        <polygon points="400.18 155.76 298.19 49.74 246.25 103.73 212.1 68.24 110.11 174.25 212.1 280.27 264.04 226.28 298.19 261.78 400.18 155.76" style="fill: #009245"/>
+        <ellipse cx="64.56" cy="72.27" rx="32.28" ry="33.56" style="fill: #ffbc00"/>
+      </g>
+    </g>
+  </g>
+  <g id="47925177-11e6-48c6-843a-c8d053427888" data-name="mobile">
+    <g id="c6d4c01b-6c3b-4d26-be5d-444e61c840ce" data-name="image">
+      <g style="clip-path: url(#2f863eb2-84c6-4d24-ae59-9770769e4f0a)">
+        <rect x="-771" width="1024" height="351" style="fill: #3e7aff"/>
+        <polygon points="195.94 362.06 -50.5 115.61 -176 241.11 -258.5 158.61 -504.94 405.06 -258.5 651.5 -133 526 -50.5 608.5 195.94 362.06" style="fill: #009245"/>
+      </g>
+    </g>
+  </g>
+</svg>

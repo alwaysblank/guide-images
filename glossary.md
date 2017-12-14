@@ -58,6 +58,10 @@ A way of storing an image where the image is described by a bunch of math. This 
 
 Because they are described by mathmatical equations, **vector** images can scale infinitely (i.e. there is no quality loss when scaling or zooming in on the image).
 
+## Viewport
+
+The "size" of the site, which is generally equal to the dimensions of whatever the site is being viewed with. On a desktop computer, this is the browser, the size of which can vary as the user adjusts it. On a mobile device, this is common the size of the device's screen.
+
 ## Weight
 
 The size of an image on your hard drive. Given in bytes, or units of bytes, i.e. "kilobytes," "megabytes," etc.

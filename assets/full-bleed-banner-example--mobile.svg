@@ -1,0 +1,23 @@
+<svg id="d7e01dd0-090c-4fa0-bea6-01a667df1abf" data-name="mobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="425" height="676" viewBox="0 0 425 676">
+  <defs>
+    <clipPath id="a8329482-6343-46e0-8053-c5bf19a19728">
+      <rect width="425" height="351" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>full-bleed-banner-example--mobile</title>
+  <g id="65abc4b0-adaf-4f9f-8544-b9c20b436234" data-name="paragraph">
+    <rect x="41" y="529" width="341" height="14" style="fill: #ccc"/>
+    <rect x="41" y="556.5" width="341" height="14" style="fill: #ccc"/>
+    <rect x="41" y="584" width="341" height="14" style="fill: #ccc"/>
+    <rect x="41" y="611.5" width="341" height="14" style="fill: #ccc"/>
+    <rect x="41" y="639" width="341" height="14" style="fill: #ccc"/>
+  </g>
+  <line id="5fc7884a-4294-41bd-8c56-5f9b218859a4" data-name="separator" x1="41" y1="504" x2="382" y2="504" style="stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <rect id="31d9533a-4729-48bb-8979-4723bd23f9cc" data-name="title" x="41" y="400" width="341" height="77" style="fill: #ccc"/>
+  <g id="635e9d2a-153d-41f4-9e9f-3c51d1913e39" data-name="image">
+    <g style="clip-path: url(#a8329482-6343-46e0-8053-c5bf19a19728)">
+      <rect x="-299" width="1024" height="351" style="fill: #3e7aff"/>
+      <polygon points="667.94 362.06 421.5 115.61 296 241.11 213.5 158.61 -32.94 405.06 213.5 651.5 339 526 421.5 608.5 667.94 362.06" style="fill: #009245"/>
+    </g>
+  </g>
+</svg>
