@@ -1,5 +1,14 @@
 # Responsive Images
 
+## Basic Rules
+
+Select images were all relevant content is:
+
+* Centered in the frame
+* Spaced far away from the edges of the frame
+
+![Simple examples of good and bad image composition.](assets/image-examples.svg)
+
 ## Sizes
 
 As the size of the **viewport** changes, sometimes the **dimensions** of images on a site must also change, so that the design continues to look good. Usually, these are images whose **dimensions** are dependant on, or relative to, the size of the **viewport**.
@@ -19,8 +28,6 @@ On the desktop, the image was `1000px` by `333px`, so it had a **ratio** of 3:1.
 
 > **Note:** These numbers are rounded to make them a bit easier to understand.
 
----
-
 ## Focus
 
 In traditional photography, framing is important: the photographer composes an image that relates to where its edges are, and in many cases includes important content that goes all the way up to those edges, or content that is heavily weighted to one side or corner of the image. 
@@ -38,15 +45,4 @@ For instance, take these good dogs:
 
 Because they're centered, and there's plenty of space between them and the edges of the photo, they still look fine in our theoretical design:
 ![](assets/full-bleed-banner-example--image-good.svg)
-
-## Conclusion
-
-When selecting images for use on a web site, keep the following in mind:
-
-Select images were all relevant content is:
-
-* Centered in the frame
-* Spaced far away from the edges of the frame
-
-![Simple examples of good and bad image composition.](assets/image-examples.svg)
 
