@@ -9,7 +9,9 @@ Select images were all relevant content is:
 
 ![Simple examples of good and bad image composition.](assets/image-examples.svg)
 
-<video src="assets/video.mp4" autoplay loop playsinline></video>
+The following is an animated example of how an image is scaled as the viewport changes size:
+
+<video src="assets/resize-animation.mp4" autoplay loop playsinline></video>
 
 ## Sizes
 
