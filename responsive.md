@@ -9,6 +9,8 @@ Select images were all relevant content is:
 
 ![Simple examples of good and bad image composition.](assets/image-examples.svg)
 
+<video src="assets/video.mp4" autoplay loop playsinline></video>
+
 ## Sizes
 
 As the size of the **viewport** changes, sometimes the **dimensions** of images on a site must also change, so that the design continues to look good. Usually, these are images whose **dimensions** are dependant on, or relative to, the size of the **viewport**.
