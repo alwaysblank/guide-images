@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway%7COswald%7CInconsolata');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 700px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  line-height: 1.333;
+  font-family: 'Raleway', sans-serif;
+  color: #241f1c;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Oswald', sans-serif;
+}
+
+figure,
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border: 1px solid #e7e6e4;
+}
+
+figure > img {
+  border: 0;
+}
+
+figure {
+  width: auto;
+}
+
+figcaption {
+  padding: 0.5rem;
+  font-style: italic;
+  background-color: #e7e6e4;
+}
+
+code {
+  font-family: 'Inconsolata', monospace;
+  letter-spacing: 1px;
+  color: darkgreen;
+}
+
+blockquote {
+  background-color: #e7e6e4;
+  margin: 0;
+  padding: 0.5rem 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: #bb803d;
+}
+
+#TOC ul {
+  margin: 0;
+  padding: 0;
+}
+
+#TOC li {
+  list-style: none;
+  margin-bottom: 0.5rem;
+}
+
+#TOC > ul > li {
+  margin-top: 1rem;
+}
+
+#TOC > ul > li > a {
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+  display: block;
+}
