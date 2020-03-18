@@ -11,7 +11,7 @@ Select images were all relevant content is:
 
 The following is an animated example of how an image is scaled as the viewport changes size:
 
-<video src="assets/resize-animation.mp4" autoplay loop playsinline></video>
+<video src="assets/resize-animation.mp4" autoplay loop playsinline muted></video>
 
 ## Sizes
 
